@@ -1,0 +1,6 @@
+# carpetas y ficheros que ignoramos de eclipse, para la subida de archivos a github
+
+/target/
+/.classpath
+/.project
+/.settings
